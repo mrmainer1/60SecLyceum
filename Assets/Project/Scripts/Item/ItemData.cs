@@ -1,16 +1,11 @@
 using UnityEngine;
 
-public class ItemData : MonoBehaviour
+namespace Project.Scripts.Item
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [CreateAssetMenu(menuName = "ItemData", fileName = "Item")]
+    public class ItemData : ScriptableObject
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        public string ID;
+        public string Name;
     }
 }
