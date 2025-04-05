@@ -4,5 +4,6 @@ namespace Project.Scripts.Interface
     {
         public void Interacte();
         public void Hover();
+        public void EndHover();
     }
 }

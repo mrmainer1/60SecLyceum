@@ -7,5 +7,7 @@ namespace Project.Scripts.Item
     {
         public string ID;
         public string Name;
+        public Sprite Icon;
+        public int SizeY = 1;
     }
 }

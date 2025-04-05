@@ -6,8 +6,6 @@ namespace Project.Scripts.Inventory
 {
     public class InventoryPlayer : EEBehaviour
     {
-        [SerializeField] private Inventory inventory = new Inventory();
-
-
+         public Base.Inventory inventory = new Base.Inventory();
     }
 }

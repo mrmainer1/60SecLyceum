@@ -1,0 +1,3431 @@
+fileFormatVersion: 2
+guid: 1ba2a0d6de1889d499f2334ccc29bfc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4406047053315939869
+    second: dildo_inv_0
+  - first:
+      213: -5961486575892324143
+    second: dildo_inv_1
+  - first:
+      213: 9099209125001824043
+    second: dildo_inv_2
+  - first:
+      213: -4690224107479115154
+    second: dildo_inv_3
+  - first:
+      213: -3244275997102079302
+    second: dildo_inv_4
+  - first:
+      213: 2393218749708689804
+    second: dildo_inv_5
+  - first:
+      213: 7812890820528409408
+    second: dildo_inv_6
+  - first:
+      213: 7972285670929414316
+    second: dildo_inv_7
+  - first:
+      213: 8534206796862572649
+    second: dildo_inv_8
+  - first:
+      213: -2613367131015078917
+    second: dildo_inv_9
+  - first:
+      213: -7022010951775971396
+    second: dildo_inv_10
+  - first:
+      213: 3965817763943867660
+    second: dildo_inv_11
+  - first:
+      213: 5831707018827659490
+    second: dildo_inv_12
+  - first:
+      213: 5554189233695304692
+    second: dildo_inv_13
+  - first:
+      213: -5835437049353160091
+    second: dildo_inv_14
+  - first:
+      213: 1203532366878882240
+    second: dildo_inv_15
+  - first:
+      213: 6538339110793356723
+    second: dildo_inv_16
+  - first:
+      213: -5577440482129202490
+    second: dildo_inv_17
+  - first:
+      213: 7785528425928395685
+    second: dildo_inv_18
+  - first:
+      213: -7550378936212400351
+    second: dildo_inv_19
+  - first:
+      213: 3460002135509408422
+    second: dildo_inv_20
+  - first:
+      213: 7422725224270444717
+    second: dildo_inv_21
+  - first:
+      213: -2673217093616487648
+    second: dildo_inv_22
+  - first:
+      213: 4185871424440800371
+    second: dildo_inv_23
+  - first:
+      213: 2017681267277156856
+    second: dildo_inv_24
+  - first:
+      213: -8612848877191096166
+    second: dildo_inv_25
+  - first:
+      213: 3077259573830570616
+    second: dildo_inv_26
+  - first:
+      213: 3899150388999728903
+    second: dildo_inv_27
+  - first:
+      213: 2486392926349879962
+    second: dildo_inv_28
+  - first:
+      213: 2444338931718829548
+    second: dildo_inv_29
+  - first:
+      213: -3470912163025164284
+    second: dildo_inv_30
+  - first:
+      213: 7352598192121744490
+    second: dildo_inv_31
+  - first:
+      213: -4531818262983607202
+    second: dildo_inv_32
+  - first:
+      213: -5485497811770131995
+    second: dildo_inv_33
+  - first:
+      213: 7500956456338998879
+    second: dildo_inv_34
+  - first:
+      213: -6787001629810859815
+    second: dildo_inv_35
+  - first:
+      213: -89530109793327213
+    second: dildo_inv_36
+  - first:
+      213: -1925460136862309057
+    second: dildo_inv_37
+  - first:
+      213: -3517629011499320281
+    second: dildo_inv_38
+  - first:
+      213: 8860998784030912640
+    second: dildo_inv_39
+  - first:
+      213: -4530721645532935162
+    second: dildo_inv_40
+  - first:
+      213: 2060378537377422052
+    second: dildo_inv_41
+  - first:
+      213: -4235775370961270296
+    second: dildo_inv_42
+  - first:
+      213: -5480753784910166821
+    second: dildo_inv_43
+  - first:
+      213: -4228024626635867176
+    second: dildo_inv_44
+  - first:
+      213: -315060145302300375
+    second: dildo_inv_45
+  - first:
+      213: -3228380775626363795
+    second: dildo_inv_46
+  - first:
+      213: 6865421076090970415
+    second: dildo_inv_47
+  - first:
+      213: 3819799085766683085
+    second: dildo_inv_48
+  - first:
+      213: -1636034465420753196
+    second: dildo_inv_49
+  - first:
+      213: -1182392423672481184
+    second: dildo_inv_50
+  - first:
+      213: 7263441500653665150
+    second: dildo_inv_51
+  - first:
+      213: -2096595739347676611
+    second: dildo_inv_52
+  - first:
+      213: 8152376926864229745
+    second: dildo_inv_53
+  - first:
+      213: -8210996220807230039
+    second: dildo_inv_54
+  - first:
+      213: 1405967214622122720
+    second: dildo_inv_55
+  - first:
+      213: -2256042295041251988
+    second: dildo_inv_56
+  - first:
+      213: -1801680234283491699
+    second: dildo_inv_57
+  - first:
+      213: -803143808462731477
+    second: dildo_inv_58
+  - first:
+      213: 8478702971089640265
+    second: dildo_inv_59
+  - first:
+      213: 3454781022403209008
+    second: dildo_inv_60
+  - first:
+      213: 6849718243978129833
+    second: dildo_inv_61
+  - first:
+      213: -3215768661980701948
+    second: dildo_inv_62
+  - first:
+      213: -7751817079765099782
+    second: dildo_inv_63
+  - first:
+      213: -1095751862070196482
+    second: dildo_inv_64
+  - first:
+      213: -322856101625918837
+    second: dildo_inv_65
+  - first:
+      213: 4639299445780254552
+    second: dildo_inv_66
+  - first:
+      213: 6518420473517039144
+    second: dildo_inv_67
+  - first:
+      213: -6582079167267439631
+    second: dildo_inv_68
+  - first:
+      213: 1212266190167788030
+    second: dildo_inv_69
+  - first:
+      213: 4506601882091464988
+    second: dildo_inv_70
+  - first:
+      213: 8915559354235938888
+    second: dildo_inv_71
+  - first:
+      213: -5937035478335719547
+    second: dildo_inv_72
+  - first:
+      213: -277893597083276511
+    second: dildo_inv_73
+  - first:
+      213: -6082620540989270235
+    second: dildo_inv_74
+  - first:
+      213: 3209675826805095842
+    second: dildo_inv_75
+  - first:
+      213: 8516206040441408165
+    second: dildo_inv_76
+  - first:
+      213: 1551379933744059323
+    second: dildo_inv_77
+  - first:
+      213: -5703985421640520518
+    second: dildo_inv_78
+  - first:
+      213: -1420636513765896041
+    second: dildo_inv_79
+  - first:
+      213: 7477287660154412541
+    second: dildo_inv_80
+  - first:
+      213: 3498840042219781667
+    second: dildo_inv_81
+  - first:
+      213: -516915363969707847
+    second: dildo_inv_82
+  - first:
+      213: -9024207584151206624
+    second: dildo_inv_83
+  - first:
+      213: 5985262076864830787
+    second: dildo_inv_84
+  - first:
+      213: -5337414538688740902
+    second: dildo_inv_85
+  - first:
+      213: -7218903266461193489
+    second: dildo_inv_86
+  - first:
+      213: -607972332298229061
+    second: dildo_inv_87
+  - first:
+      213: 3350549394831632300
+    second: dildo_inv_88
+  - first:
+      213: 8478357235385792841
+    second: dildo_inv_89
+  - first:
+      213: -6480727974664652916
+    second: dildo_inv_90
+  - first:
+      213: -7179227358297046767
+    second: dildo_inv_91
+  - first:
+      213: 5444878395819390890
+    second: dildo_inv_92
+  - first:
+      213: 949475760506755802
+    second: dildo_inv_93
+  - first:
+      213: 7145262959440751856
+    second: dildo_inv_94
+  - first:
+      213: 1552588727577255726
+    second: dildo_inv_95
+  - first:
+      213: -8530908216060193990
+    second: dildo_inv_96
+  - first:
+      213: 6759013784972923848
+    second: dildo_inv_97
+  - first:
+      213: -1499117981792584801
+    second: dildo_inv_98
+  - first:
+      213: 4108984548982282008
+    second: dildo_inv_99
+  - first:
+      213: -863356581264468599
+    second: dildo_inv_100
+  - first:
+      213: -4824064635085472788
+    second: dildo_inv_101
+  - first:
+      213: 5644081273685828235
+    second: dildo_inv_102
+  - first:
+      213: 7504513530771949444
+    second: dildo_inv_103
+  - first:
+      213: -7553991416085478850
+    second: dildo_inv_104
+  - first:
+      213: 2169069253775427433
+    second: dildo_inv_105
+  - first:
+      213: 6206093741237105990
+    second: dildo_inv_106
+  - first:
+      213: -2165727994370961463
+    second: dildo_inv_107
+  - first:
+      213: 5751007338821388573
+    second: dildo_inv_108
+  - first:
+      213: -8361405656348650170
+    second: dildo_inv_109
+  - first:
+      213: -8566023523637605672
+    second: dildo_inv_110
+  - first:
+      213: 5801511107485739464
+    second: dildo_inv_111
+  - first:
+      213: 1002020602661480703
+    second: dildo_inv_112
+  - first:
+      213: -8419842618647265984
+    second: dildo_inv_113
+  - first:
+      213: 446549355178512970
+    second: dildo_inv_114
+  - first:
+      213: -4546839277049835880
+    second: dildo_inv_115
+  - first:
+      213: 7821211658565215946
+    second: dildo_inv_116
+  - first:
+      213: 8584979595038289537
+    second: dildo_inv_117
+  - first:
+      213: 3279310802527521081
+    second: dildo_inv_118
+  - first:
+      213: -8545836134733443014
+    second: dildo_inv_119
+  - first:
+      213: 2742008843472497916
+    second: dildo_inv_120
+  - first:
+      213: 1056791693601928757
+    second: dildo_inv_121
+  - first:
+      213: -2728941062972569293
+    second: dildo_inv_122
+  - first:
+      213: -2245150722764583022
+    second: dildo_inv_123
+  - first:
+      213: -2300539513337989108
+    second: dildo_inv_124
+  - first:
+      213: 65429073215287969
+    second: dildo_inv_125
+  - first:
+      213: 2075512584252479646
+    second: dildo_inv_126
+  - first:
+      213: -6101114766003328482
+    second: dildo_inv_127
+  - first:
+      213: 6588941363646695770
+    second: dildo_inv_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 1686, y: 291, z: 1555, w: 173}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dildo_inv_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 3983
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0ada66b8b844da0800000000000000
+      internalID: -5961486575892324143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_2
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 3983
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b270ab05d72e64e70800000000000000
+      internalID: 9099209125001824043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_3
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3632
+        width: 200
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6adbbc260af8eeb0800000000000000
+      internalID: -4690224107479115154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_4
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 2449
+        width: 1613
+        height: 1551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab287676b240af2d0800000000000000
+      internalID: -3244275997102079302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3739
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81e036e5cb663120800000000000000
+      internalID: 2393218749708689804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3743
+        width: 128
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b818a8ec6fc6c60800000000000000
+      internalID: 7812890820528409408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_7
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3704
+        width: 10
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca83fa7249f33ae60800000000000000
+      internalID: 7972285670929414316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_8
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 277
+        width: 1337
+        height: 3500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968c7b69dd79f6670800000000000000
+      internalID: 8534206796862572649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_9
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 3895
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb1a28c0747bbbd0800000000000000
+      internalID: -2613367131015078917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3710
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb79d7a5e3ecc8e90800000000000000
+      internalID: -7022010951775971396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_11
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3685
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05eec79e3a690730800000000000000
+      internalID: 3965817763943867660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3632
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8ff5bc2a26ee050800000000000000
+      internalID: 5831707018827659490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3660
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb25b14ea1741d40800000000000000
+      internalID: 5554189233695304692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3513
+        width: 37
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ab62ccbec540fa0800000000000000
+      internalID: -5835437049353160091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_15
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3630
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c93083af4ec3b010800000000000000
+      internalID: 1203532366878882240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3554
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5a1e797c8dcba50800000000000000
+      internalID: 6538339110793356723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_17
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3528
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c23eca9e63f892b0800000000000000
+      internalID: -5577440482129202490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3503
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab0b289ad0cb0c60800000000000000
+      internalID: 7785528425928395685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3508
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127d7737c5aa73790800000000000000
+      internalID: -7550378936212400351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_20
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3397
+        width: 162
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa91214c95640030800000000000000
+      internalID: 3460002135509408422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_21
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3498
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8b8f1a341d20760800000000000000
+      internalID: 7422725224270444717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3397
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023bc777733d6ead0800000000000000
+      internalID: -2673217093616487648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_23
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 3434
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374904102e3371a30800000000000000
+      internalID: 4185871424440800371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_24
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 3435
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1d3062c6e300c10800000000000000
+      internalID: 2017681267277156856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_25
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3347
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9817ea3493097880800000000000000
+      internalID: -8612848877191096166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3037
+        width: 123
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87257d3474f94ba20800000000000000
+      internalID: 3077259573830570616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3042
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fa726ce909c1630800000000000000
+      internalID: 3899150388999728903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_28
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3279
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ae02b6131718220800000000000000
+      internalID: 2486392926349879962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_29
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3194
+        width: 69
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce532c7ce490ce120800000000000000
+      internalID: 2444338931718829548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_30
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3120
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4086d4407c7d4dfc0800000000000000
+      internalID: -3470912163025164284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_31
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3278
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c8899991da90660800000000000000
+      internalID: 7352598192121744490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_32
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 3317
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cfb38ec4fbb11c0800000000000000
+      internalID: -4531818262983607202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_33
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2964
+        width: 255
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e93249bdc89fd3b0800000000000000
+      internalID: -5485497811770131995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_34
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 3234
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5642cfb720c81860800000000000000
+      internalID: 7500956456338998879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2691
+        width: 196
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0602d0af9bfc1a0800000000000000
+      internalID: -6787001629810859815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_36
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2763
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3972119e6dce1cef0800000000000000
+      internalID: -89530109793327213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_37
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2690
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35a52105346745e0800000000000000
+      internalID: -1925460136862309057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_39
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2652
+        width: 87
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080b45d427798fa70800000000000000
+      internalID: 8860998784030912640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2680
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c06dd0ba4af11c0800000000000000
+      internalID: -4530721645532935162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2563
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea58370d5fe79c10800000000000000
+      internalID: 2060378537377422052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2528
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e941810eb08735c0800000000000000
+      internalID: -4235775370961270296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_43
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2606
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd44d0d887370f3b0800000000000000
+      internalID: -5480753784910166821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_44
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 2513
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbf3cbc00a0355c0800000000000000
+      internalID: -4228024626635867176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_45
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2548
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9299f54977ea0abf0800000000000000
+      internalID: -315060145302300375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_46
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2534
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c271d0acc7233d0800000000000000
+      internalID: -3228380775626363795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_47
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 2489
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21e1e91810e64f50800000000000000
+      internalID: 6865421076090970415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_48
+      rect:
+        serializedVersion: 2
+        x: 3960
+        y: 2509
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc92c74c707a20530800000000000000
+      internalID: 3819799085766683085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2495
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6cc406253ab49e0800000000000000
+      internalID: -1636034465420753196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_51
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 2509
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bba4dbf8decc460800000000000000
+      internalID: 7263441500653665150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_52
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 2503
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d329596884567e2e0800000000000000
+      internalID: -2096595739347676611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_53
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 2484
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17545d03f9f032170800000000000000
+      internalID: 8152376926864229745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_54
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 2513
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adc5bed07eac0e80800000000000000
+      internalID: -8210996220807230039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_55
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 2504
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2a5698bbff28310800000000000000
+      internalID: 1405967214622122720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_56
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 2514
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c652fc55c7de0b0e0800000000000000
+      internalID: -2256042295041251988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_57
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 2484
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e90b46f552ff6e0800000000000000
+      internalID: -1801680234283491699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_58
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 2494
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27460126f8aad4f0800000000000000
+      internalID: -803143808462731477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_59
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 2493
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bd8db1e676aa570800000000000000
+      internalID: 8478702971089640265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_60
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 2494
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037aa112909d1ff20800000000000000
+      internalID: 3454781022403209008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_61
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 2455
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a134d793761f0f50800000000000000
+      internalID: 6849718243978129833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_62
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 2445
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b9ec6907b4f53d0800000000000000
+      internalID: -3215768661980701948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_63
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 2469
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa9bc4df630c6490800000000000000
+      internalID: -7751817079765099782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_64
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 2459
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6455bac7b1bc0f0800000000000000
+      internalID: -1095751862070196482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_65
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 2456
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a050d061cf48bf0800000000000000
+      internalID: -322856101625918837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_66
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 2459
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f0660144a126040800000000000000
+      internalID: 4639299445780254552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_67
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 2474
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82edd9472e4167a50800000000000000
+      internalID: 6518420473517039144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_68
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 2454
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb7687eed1c7a4a0800000000000000
+      internalID: -6582079167267439631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_69
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2454
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ca265da5d2d010800000000000000
+      internalID: 1212266190167788030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_70
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 2455
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c192b26e88aaa8e30800000000000000
+      internalID: 4506601882091464988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_71
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 2456
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848e42bfefd6abb70800000000000000
+      internalID: 8915559354235938888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_72
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 2454
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58778ee20b96b9da0800000000000000
+      internalID: -5937035478335719547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_73
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 2454
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bee7cee39b42cf0800000000000000
+      internalID: -277893597083276511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_74
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 2456
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52717d658d0369ba0800000000000000
+      internalID: -6082620540989270235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_75
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 2449
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad30eca82f0b8c20800000000000000
+      internalID: 3209675826805095842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_76
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 2449
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aacb82e544af2670800000000000000
+      internalID: 8516206040441408165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_77
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 2415
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3db7684db978510800000000000000
+      internalID: 1551379933744059323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_78
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 2435
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc2c13ea7f57d0b0800000000000000
+      internalID: -5703985421640520518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_79
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 2420
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790d80a1e92e84ce0800000000000000
+      internalID: -1420636513765896041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_80
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 2430
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd5ae2b289a4c760800000000000000
+      internalID: 7477287660154412541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_81
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2376
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e3c621b706e8030800000000000000
+      internalID: 3498840042219781667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_82
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 2400
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0d4a7173c83d8f0800000000000000
+      internalID: -516915363969707847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_83
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 2405
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0250847b30393c280800000000000000
+      internalID: -9024207584151206624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_84
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2391
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d152bc52cef0350800000000000000
+      internalID: 5985262076864830787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_85
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 2391
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c37281c1bde5b0800000000000000
+      internalID: -5337414538688740902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_86
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2338
+        width: 11
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea6caef9bd41db90800000000000000
+      internalID: -7218903266461193489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_87
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 2391
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba291c826c0097f0800000000000000
+      internalID: -607972332298229061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2297
+        width: 82
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7e6513cea8f7e20800000000000000
+      internalID: 3350549394831632300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_89
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2347
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949780e3cfc29a570800000000000000
+      internalID: 8478357235385792841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_90
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 2376
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c873d205e34df06a0800000000000000
+      internalID: -6480727974664652916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_91
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 2376
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11140fa31c24e5c90800000000000000
+      internalID: -7179227358297046767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_92
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 2337
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa773048d08109b40800000000000000
+      internalID: 5444878395819390890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2249
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada59d37c273d2d00800000000000000
+      internalID: 949475760506755802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_94
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2332
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fce83cedc2192360800000000000000
+      internalID: 7145262959440751856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_95
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 2185
+        width: 48
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f9485c837eb8510800000000000000
+      internalID: 1552588727577255726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_96
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 2293
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33554a1d202c9980800000000000000
+      internalID: -8530908216060193990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_97
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 2220
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c397450a37dccd50800000000000000
+      internalID: 6759013784972923848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_98
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 2278
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b3ad26320123be0800000000000000
+      internalID: -1499117981792584801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_99
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 2269
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81758ad4dab060930800000000000000
+      internalID: 4108984548982282008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_100
+      rect:
+        serializedVersion: 2
+        x: 3961
+        y: 2254
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9855c3b73cdb404f0800000000000000
+      internalID: -863356581264468599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_101
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2258
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebb43cf5ca7d0db0800000000000000
+      internalID: -4824064635085472788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_102
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 2258
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b826a79c30ec35e40800000000000000
+      internalID: 5644081273685828235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_103
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 2244
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48746cdab43652860800000000000000
+      internalID: 7504513530771949444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_104
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 2234
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3200ef64d4da2790800000000000000
+      internalID: -7553991416085478850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_105
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2221
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967818c7ef41a1e10800000000000000
+      internalID: 2169069253775427433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_106
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 2180
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64576395069702650800000000000000
+      internalID: 6206093741237105990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_107
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 2181
+        width: 167
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf46671dd9c1f1e0800000000000000
+      internalID: -2165727994370961463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_108
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 2195
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d190d1b54beafcf40800000000000000
+      internalID: 5751007338821388573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_109
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 2057
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645956e2bd156fb80800000000000000
+      internalID: -8361405656348650170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_110
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1946
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dac0ff6dfe5f1980800000000000000
+      internalID: -8566023523637605672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_111
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1818
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9ab225d9b138050800000000000000
+      internalID: 5801511107485739464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_112
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1790
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8a24fdd64e7ed00800000000000000
+      internalID: 1002020602661480703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_113
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 1763
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db5d2afb5b62b80800000000000000
+      internalID: -8419842618647265984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_114
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 1670
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42581ac546723600800000000000000
+      internalID: 446549355178512970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_115
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1398
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e86a884c166e0c0800000000000000
+      internalID: -4546839277049835880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_116
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1347
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac66ced90968a8c60800000000000000
+      internalID: 7821211658565215946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_117
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 1243
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eeb3ed479f32770800000000000000
+      internalID: 8584979595038289537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_118
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1151
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93901c4ecc3728d20800000000000000
+      internalID: 3279310802527521081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_119
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 1132
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3014803057176980800000000000000
+      internalID: -8545836134733443014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_120
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1151
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc682ee3829d0620800000000000000
+      internalID: 2742008843472497916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_121
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1123
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536f9ba327a7aae00800000000000000
+      internalID: 1056791693601928757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_122
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 235
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3390b80df8ad02ad0800000000000000
+      internalID: -2728941062972569293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_123
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 259
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fc76e105f97d0e0800000000000000
+      internalID: -2245150722764583022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_124
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 258
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c083dbb5087d210e0800000000000000
+      internalID: -2300539513337989108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_125
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 235
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2fafa356378e000800000000000000
+      internalID: 65429073215287969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_126
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 238
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98d837e2b3bdcc10800000000000000
+      internalID: 2075512584252479646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_127
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 219
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a2b76027c745ba0800000000000000
+      internalID: -6101114766003328482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dildo_inv_128
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 220
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a590a02b24f907b50800000000000000
+      internalID: 6588941363646695770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dildo_inv_0: 4406047053315939869
+      dildo_inv_1: -5961486575892324143
+      dildo_inv_10: -7022010951775971396
+      dildo_inv_100: -863356581264468599
+      dildo_inv_101: -4824064635085472788
+      dildo_inv_102: 5644081273685828235
+      dildo_inv_103: 7504513530771949444
+      dildo_inv_104: -7553991416085478850
+      dildo_inv_105: 2169069253775427433
+      dildo_inv_106: 6206093741237105990
+      dildo_inv_107: -2165727994370961463
+      dildo_inv_108: 5751007338821388573
+      dildo_inv_109: -8361405656348650170
+      dildo_inv_11: 3965817763943867660
+      dildo_inv_110: -8566023523637605672
+      dildo_inv_111: 5801511107485739464
+      dildo_inv_112: 1002020602661480703
+      dildo_inv_113: -8419842618647265984
+      dildo_inv_114: 446549355178512970
+      dildo_inv_115: -4546839277049835880
+      dildo_inv_116: 7821211658565215946
+      dildo_inv_117: 8584979595038289537
+      dildo_inv_118: 3279310802527521081
+      dildo_inv_119: -8545836134733443014
+      dildo_inv_12: 5831707018827659490
+      dildo_inv_120: 2742008843472497916
+      dildo_inv_121: 1056791693601928757
+      dildo_inv_122: -2728941062972569293
+      dildo_inv_123: -2245150722764583022
+      dildo_inv_124: -2300539513337989108
+      dildo_inv_125: 65429073215287969
+      dildo_inv_126: 2075512584252479646
+      dildo_inv_127: -6101114766003328482
+      dildo_inv_128: 6588941363646695770
+      dildo_inv_13: 5554189233695304692
+      dildo_inv_14: -5835437049353160091
+      dildo_inv_15: 1203532366878882240
+      dildo_inv_16: 6538339110793356723
+      dildo_inv_17: -5577440482129202490
+      dildo_inv_18: 7785528425928395685
+      dildo_inv_19: -7550378936212400351
+      dildo_inv_2: 9099209125001824043
+      dildo_inv_20: 3460002135509408422
+      dildo_inv_21: 7422725224270444717
+      dildo_inv_22: -2673217093616487648
+      dildo_inv_23: 4185871424440800371
+      dildo_inv_24: 2017681267277156856
+      dildo_inv_25: -8612848877191096166
+      dildo_inv_26: 3077259573830570616
+      dildo_inv_27: 3899150388999728903
+      dildo_inv_28: 2486392926349879962
+      dildo_inv_29: 2444338931718829548
+      dildo_inv_3: -4690224107479115154
+      dildo_inv_30: -3470912163025164284
+      dildo_inv_31: 7352598192121744490
+      dildo_inv_32: -4531818262983607202
+      dildo_inv_33: -5485497811770131995
+      dildo_inv_34: 7500956456338998879
+      dildo_inv_35: -6787001629810859815
+      dildo_inv_36: -89530109793327213
+      dildo_inv_37: -1925460136862309057
+      dildo_inv_38: -3517629011499320281
+      dildo_inv_39: 8860998784030912640
+      dildo_inv_4: -3244275997102079302
+      dildo_inv_40: -4530721645532935162
+      dildo_inv_41: 2060378537377422052
+      dildo_inv_42: -4235775370961270296
+      dildo_inv_43: -5480753784910166821
+      dildo_inv_44: -4228024626635867176
+      dildo_inv_45: -315060145302300375
+      dildo_inv_46: -3228380775626363795
+      dildo_inv_47: 6865421076090970415
+      dildo_inv_48: 3819799085766683085
+      dildo_inv_49: -1636034465420753196
+      dildo_inv_5: 2393218749708689804
+      dildo_inv_50: -1182392423672481184
+      dildo_inv_51: 7263441500653665150
+      dildo_inv_52: -2096595739347676611
+      dildo_inv_53: 8152376926864229745
+      dildo_inv_54: -8210996220807230039
+      dildo_inv_55: 1405967214622122720
+      dildo_inv_56: -2256042295041251988
+      dildo_inv_57: -1801680234283491699
+      dildo_inv_58: -803143808462731477
+      dildo_inv_59: 8478702971089640265
+      dildo_inv_6: 7812890820528409408
+      dildo_inv_60: 3454781022403209008
+      dildo_inv_61: 6849718243978129833
+      dildo_inv_62: -3215768661980701948
+      dildo_inv_63: -7751817079765099782
+      dildo_inv_64: -1095751862070196482
+      dildo_inv_65: -322856101625918837
+      dildo_inv_66: 4639299445780254552
+      dildo_inv_67: 6518420473517039144
+      dildo_inv_68: -6582079167267439631
+      dildo_inv_69: 1212266190167788030
+      dildo_inv_7: 7972285670929414316
+      dildo_inv_70: 4506601882091464988
+      dildo_inv_71: 8915559354235938888
+      dildo_inv_72: -5937035478335719547
+      dildo_inv_73: -277893597083276511
+      dildo_inv_74: -6082620540989270235
+      dildo_inv_75: 3209675826805095842
+      dildo_inv_76: 8516206040441408165
+      dildo_inv_77: 1551379933744059323
+      dildo_inv_78: -5703985421640520518
+      dildo_inv_79: -1420636513765896041
+      dildo_inv_8: 8534206796862572649
+      dildo_inv_80: 7477287660154412541
+      dildo_inv_81: 3498840042219781667
+      dildo_inv_82: -516915363969707847
+      dildo_inv_83: -9024207584151206624
+      dildo_inv_84: 5985262076864830787
+      dildo_inv_85: -5337414538688740902
+      dildo_inv_86: -7218903266461193489
+      dildo_inv_87: -607972332298229061
+      dildo_inv_88: 3350549394831632300
+      dildo_inv_89: 8478357235385792841
+      dildo_inv_9: -2613367131015078917
+      dildo_inv_90: -6480727974664652916
+      dildo_inv_91: -7179227358297046767
+      dildo_inv_92: 5444878395819390890
+      dildo_inv_93: 949475760506755802
+      dildo_inv_94: 7145262959440751856
+      dildo_inv_95: 1552588727577255726
+      dildo_inv_96: -8530908216060193990
+      dildo_inv_97: 6759013784972923848
+      dildo_inv_98: -1499117981792584801
+      dildo_inv_99: 4108984548982282008
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
