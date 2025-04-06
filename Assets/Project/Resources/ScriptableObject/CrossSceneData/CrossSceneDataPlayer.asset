@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemStacks:
   - Item: {fileID: 11400000, guid: 6b29dce09a59844428f292cbe434edb6, type: 2}
-    Amount: 3
+    Amount: 6
+  - Item: {fileID: 11400000, guid: 7e4e368a3a2a21546bb30cce8a171947, type: 2}
+    Amount: 1

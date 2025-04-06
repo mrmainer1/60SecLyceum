@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using Project.Scripts.Item;
 using Sirenix.OdinInspector;
 using UnityEngine;
@@ -17,6 +18,12 @@ namespace Project.Scripts.CrossScene
 
         public void AddItemStack(ItemStack itemStack)
         {
+            foreach (var item in itemStacks.Where(item => item.Item.ID == itemStack.Item.ID))
+            {
+                item.Amount += itemStack.Amount;
+                return;
+            }
+
             itemStacks.Add(itemStack);
         }
 
