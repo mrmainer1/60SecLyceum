@@ -13,6 +13,10 @@ PrefabInstance:
       value: LitEnergy
       objectReference: {fileID: 0}
     - target: {fileID: 6902206904133999215, guid: ccdcad036d29e7248bde246e220c2c21, type: 3}
+      propertyPath: m_LocalScale.x
+      value: -1.0972
+      objectReference: {fileID: 0}
+    - target: {fileID: 6902206904133999215, guid: ccdcad036d29e7248bde246e220c2c21, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -73,6 +77,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3987494300296164965}
     m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e2e75a57cbb8b9e46a3439e46d117588, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.781268
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2e75a57cbb8b9e46a3439e46d117588, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.84974
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e2e75a57cbb8b9e46a3439e46d117588, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.8226078
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e2e75a57cbb8b9e46a3439e46d117588, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0

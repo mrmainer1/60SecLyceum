@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      oleg_banner_0: -1125807661756189747
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
