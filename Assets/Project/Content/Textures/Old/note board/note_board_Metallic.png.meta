@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      note_board_Metallic_0: 5526706336472067931
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
