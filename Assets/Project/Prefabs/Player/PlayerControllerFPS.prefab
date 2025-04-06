@@ -287,6 +287,7 @@ Transform:
   - {fileID: 5236679845729417300}
   - {fileID: 4343038603916445842}
   - {fileID: 5525669881446384861}
+  - {fileID: 3686906620178782725}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 128.759, z: 0}
 --- !u!143 &738646681744756155
@@ -412,6 +413,187 @@ MonoBehaviour:
   IsAwaken: 0
   IndexBehaviour: 0
   raycastDistance: 100
+--- !u!1 &2837408856053981475
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3686906620178782725}
+  - component: {fileID: 6056117462104877349}
+  - component: {fileID: 4534767628976322322}
+  - component: {fileID: 8702079664920385280}
+  - component: {fileID: 5279982127576483736}
+  - component: {fileID: 6468732729580277962}
+  m_Layer: 0
+  m_Name: Trigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3686906620178782725
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2837408856053981475}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 738646681744756156}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &6056117462104877349
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2837408856053981475}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.76
+  m_Height: 1.923698
+  m_Direction: 1
+  m_Center: {x: 0.011776545, y: 0.02862654, z: -0.01143117}
+--- !u!114 &4534767628976322322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2837408856053981475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5740bfbcd5619440931e67bb2a0627d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isHavingConstantID: 0
+  ConstantID: 
+  IsAwaken: 0
+  RawEnterNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  RawExitNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  RawCollisions: []
+--- !u!114 &8702079664920385280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2837408856053981475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f4374156bda2744875f14ba839f4a5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isHavingConstantID: 0
+  ConstantID: 
+  IsAwaken: 0
+--- !u!114 &5279982127576483736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2837408856053981475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1003504f30b44c84b87b755bb5583efd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isHavingConstantID: 0
+  ConstantID: 
+  IsAwaken: 0
+  EETags:
+  - player-body
+  ChangeNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  sameTags: []
+--- !u!114 &6468732729580277962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2837408856053981475}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10a9329e765e74c4ba62670272c32a16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isHavingConstantID: 0
+  ConstantID: 
+  IsAwaken: 0
+  CollidingTags: []
+  RightCollisions: []
+  WrongCollisions: []
+  EnterRightNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  EnterRightFirstNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  ExitRightNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  ExitAllRightNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  EnterWrongNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  ExitWrongNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  EnterEventNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  ExitEventNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
 --- !u!1 &3562514834541115789
 GameObject:
   m_ObjectHideFlags: 0
@@ -422,6 +604,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5525669881446384861}
   - component: {fileID: 1041913284085803358}
+  - component: {fileID: 5562183661496434241}
   m_Layer: 0
   m_Name: Inventory
   m_TagString: Untagged
@@ -460,6 +643,7 @@ MonoBehaviour:
   ConstantID: 
   IsAwaken: 0
   inventory:
+    Size: 4
     Items: []
     UpdateAmountItemNotifier:
       TimePointNotify:
@@ -481,6 +665,34 @@ MonoBehaviour:
         FrameOfLastCall: -1
         OrderOfLastCall: -1
         AmountOfCall: 0
+    RemoveAllItemNotifier:
+      TimePointNotify:
+        FrameOfLastCall: -1
+        OrderOfLastCall: -1
+        AmountOfCall: 0
+--- !u!114 &5562183661496434241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3562514834541115789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1003504f30b44c84b87b755bb5583efd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isHavingConstantID: 0
+  ConstantID: 
+  IsAwaken: 0
+  EETags:
+  - inventory-player
+  ChangeNotifier:
+    TimePointNotify:
+      FrameOfLastCall: -1
+      OrderOfLastCall: -1
+      AmountOfCall: 0
+  sameTags: []
 --- !u!1 &4606483681816145630
 GameObject:
   m_ObjectHideFlags: 0

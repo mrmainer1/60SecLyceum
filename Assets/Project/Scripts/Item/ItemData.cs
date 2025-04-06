@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace Project.Scripts.Item
 {
-    [CreateAssetMenu(menuName = "ItemData", fileName = "Item")]
+    [CreateAssetMenu(menuName = "60Sec/ItemData", fileName = "Item")]
     public class ItemData : ScriptableObject
     {
         public string ID;

@@ -22,6 +22,7 @@ namespace Project.Scripts.Inventory
 
             inventory.UpdateAmountItemNotifier.Event += UpdateItemView;
             inventory.AddNewItemNotifier.Event += UpdateItemView;
+            inventory.RemoveAllItemNotifier.Event += RemoveAllItemView;
         }
 
         protected override void EEDestroy()
@@ -29,6 +30,15 @@ namespace Project.Scripts.Inventory
             base.EEDestroy();
             inventory.AddNewItemNotifier.Event -= UpdateItemView;
             inventory.UpdateAmountItemNotifier.Event -= UpdateItemView;
+            inventory.RemoveAllItemNotifier.Event -= RemoveAllItemView;
+        }
+
+        private void RemoveAllItemView()
+        {
+            foreach (var cell in cells)
+            {
+                cell.Disable();
+            }
         }
 
         private void UpdateItemView()
