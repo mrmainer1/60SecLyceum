@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      podrobnaya-karta-goroda-krasnoyarsk_0: 4577393185484024483
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

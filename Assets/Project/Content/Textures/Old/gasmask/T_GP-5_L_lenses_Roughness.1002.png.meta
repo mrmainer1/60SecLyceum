@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_GP-5_L_lenses_Roughness.1002_0: -5765902337190068418
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

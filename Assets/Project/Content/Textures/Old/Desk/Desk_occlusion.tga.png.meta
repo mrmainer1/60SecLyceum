@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Desk_occlusion.tga_0: 4463058792391936439
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_GP-5_L_main_Roughness.1001_0: 8730108317264745640
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

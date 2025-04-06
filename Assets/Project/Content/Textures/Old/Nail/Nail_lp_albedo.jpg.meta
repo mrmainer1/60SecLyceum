@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Nail_lp_albedo_0: 3267598741628845496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

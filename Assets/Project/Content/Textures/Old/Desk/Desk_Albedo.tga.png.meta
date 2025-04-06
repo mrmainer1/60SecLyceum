@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Desk_Albedo.tga_0: 3571837294716700239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
