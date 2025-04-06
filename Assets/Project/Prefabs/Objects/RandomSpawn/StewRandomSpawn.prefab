@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5223616504244996435
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1515525120934476888, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515525120934476888, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515525120934476888, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515525120934476888, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515525120934476888, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515525120934476888, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515525120934476888, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515525120934476888, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515525120934476888, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1515525120934476888, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9001632898965324874, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      propertyPath: m_Name
+      value: StewRandomSpawn
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 5307806046023615049, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 544235503992645595, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9219999164632542333}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+--- !u!4 &5761089937634438792 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 544235503992645595, guid: a164e3ddf7d70394393b84d1f7536d49, type: 3}
+  m_PrefabInstance: {fileID: 5223616504244996435}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8633986874279403113
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5761089937634438792}
+    m_Modifications:
+    - target: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.2587414
+      objectReference: {fileID: 0}
+    - target: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -11.215812
+      objectReference: {fileID: 0}
+    - target: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 13.4624605
+      objectReference: {fileID: 0}
+    - target: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7051748956381319618, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+      propertyPath: m_Name
+      value: StewSpawnElement Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+--- !u!4 &9219999164632542333 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 587175711112770068, guid: cb63b0f463c1e0549ad502d01cd86c42, type: 3}
+  m_PrefabInstance: {fileID: 8633986874279403113}
+  m_PrefabAsset: {fileID: 0}
