@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 5de7c8466dcc1d14684f8fa1fbb4f019
+guid: 4a5991e9b504d3747bad43e6c6c18150
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4453372232206420499
-    second: Nail_lp_metallic_0
+      213: 2251103643483364290
+    second: clock_arrow_0
+  - first:
+      213: 5704970991328842592
+    second: clock_arrow_1
+  - first:
+      213: -4799320768251127090
+    second: clock_arrow_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 400
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -97,7 +103,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -110,7 +116,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -126,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Nail_lp_metallic_0
+      name: clock_arrow_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1024
+        x: 282
+        y: 322
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +147,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de57fbebc817232c0800000000000000
-      internalID: -4453372232206420499
+      spriteID: 2cbd96e36d68d3f10800000000000000
+      internalID: 2251103643483364290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clock_arrow_1
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 227
+        width: 60
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0635010f3e02c2f40800000000000000
+      internalID: 5704970991328842592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clock_arrow_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 275
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca9c3d6033656db0800000000000000
+      internalID: -4799320768251127090
       vertices: []
       indices: 
       edges: []
@@ -161,7 +211,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Nail_lp_metallic_0: -4453372232206420499
+      clock_arrow_0: 2251103643483364290
+      clock_arrow_1: 5704970991328842592
+      clock_arrow_2: -4799320768251127090
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

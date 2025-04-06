@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5de7c8466dcc1d14684f8fa1fbb4f019
+guid: e848fd642cd7c3640a56265c7ff226c7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4453372232206420499
-    second: Nail_lp_metallic_0
+      213: 7791429109780549298
+    second: 7b349be1-4a4f-488a-89f9-468654caa39d_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,7 +97,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -110,7 +110,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Nail_lp_metallic_0
+      name: 7b349be1-4a4f-488a-89f9-468654caa39d_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1024
+        x: 14
+        y: 6
+        width: 606
+        height: 606
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de57fbebc817232c0800000000000000
-      internalID: -4453372232206420499
+      spriteID: 2be8b1d9e77b02c60800000000000000
+      internalID: 7791429109780549298
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Nail_lp_metallic_0: -4453372232206420499
+      7b349be1-4a4f-488a-89f9-468654caa39d_0: 7791429109780549298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
