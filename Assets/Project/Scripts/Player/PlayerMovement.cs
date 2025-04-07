@@ -8,9 +8,12 @@ namespace Project.Scripts.Player
         [SerializeField] private CharacterController controller;
         [SerializeField] private float speed = 12f;
 
+        private bool canMove = true;
+
         protected override void EEUpdate()
         {
             base.EEUpdate();
+            if(!canMove) return;
             Move();
         }
 
@@ -22,5 +25,8 @@ namespace Project.Scripts.Player
             var move = transform.right * x + transform.forward * z;
             controller.Move(move * speed * Time.deltaTime);
         }
+
+        public void StopMove() => canMove = false;
+        public void StartMove() => canMove = true;
     }
 }

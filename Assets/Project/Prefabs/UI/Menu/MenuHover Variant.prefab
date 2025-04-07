@@ -248,11 +248,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1797591612315467411, guid: 5fba13a938b9a1e4e98895e9da28f1a0, type: 3}
       propertyPath: ApproachStyleForward.Speed
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1797591612315467411, guid: 5fba13a938b9a1e4e98895e9da28f1a0, type: 3}
       propertyPath: ApproachStyleBackward.Speed
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1886453345444345508, guid: 5fba13a938b9a1e4e98895e9da28f1a0, type: 3}
       propertyPath: m_Alpha

@@ -9,7 +9,7 @@ namespace Project.Scripts.Player
         [SerializeField] private float mouseSensitivity = 1f;
 
         private float xRotation;
-        private bool unlockPressed, lockPressed;
+        private bool unlockPressed, lockPressed, canLook = true;
 
         protected override void EEAwake()
         {
@@ -21,6 +21,7 @@ namespace Project.Scripts.Player
         protected override void EEUpdate()
         {
             base.EEUpdate();
+            if (!canLook) return;
 
             var mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
             var mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity;
@@ -48,5 +49,18 @@ namespace Project.Scripts.Player
             playerTransform.Rotate(Vector3.up * mouseX);
         }
 
+        public void StopLook()
+        {
+            canLook = false;
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+        }
+
+        public void StartLook()
+        {
+            canLook = true;
+            Cursor.lockState = CursorLockMode.Locked;
+            Cursor.visible = false;
+        }
     }
 }

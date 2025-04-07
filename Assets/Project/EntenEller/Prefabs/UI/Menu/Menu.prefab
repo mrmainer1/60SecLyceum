@@ -190,7 +190,7 @@ MonoBehaviour:
       AmountOfCall: 0
   Animator: {fileID: 0}
   isLoop: 0
-  DelayForward: 0.2
+  DelayForward: 0
   DelayBackward: 0
   IsOver: 0
   IsActive: 1
