@@ -1,4 +1,5 @@
 using Project.EntenEller.Base.Scripts.Advanced.Behaviours.Loop;
+using Project.EntenEller.Base.Scripts.Advanced.Notifiers;
 using UnityEngine;
 
 namespace Project.Scripts.Player
@@ -8,7 +9,10 @@ namespace Project.Scripts.Player
         [SerializeField] private CharacterController controller;
         [SerializeField] private float speed = 12f;
 
+        public EENotifier MovingNotifier, StopMoveNotifier;
+
         private bool canMove = true;
+        private Vector3 lastPosition;
 
         protected override void EEUpdate()
         {
@@ -24,6 +28,10 @@ namespace Project.Scripts.Player
 
             var move = transform.right * x + transform.forward * z;
             controller.Move(move * speed * Time.deltaTime);
+
+            if(lastPosition != transform.position) MovingNotifier.Notify();
+            else StopMoveNotifier.Notify();
+            lastPosition = transform.position;
         }
 
         public void StopMove() => canMove = false;

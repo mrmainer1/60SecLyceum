@@ -1,5 +1,40 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4722163771654987695
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3019288095288628880}
+  m_Layer: 5
+  m_Name: AudioList
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3019288095288628880
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4722163771654987695}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7771299973400766480}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &6953324586723937519
 GameObject:
   m_ObjectHideFlags: 0
@@ -143,6 +178,10 @@ PrefabInstance:
       propertyPath: ApproachStyleBackward.Speed
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 1886453345444345508, guid: 5fba13a938b9a1e4e98895e9da28f1a0, type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2185488925918089356, guid: 5fba13a938b9a1e4e98895e9da28f1a0, type: 3}
       propertyPath: m_Name
       value: MenuMagazine Variant
@@ -237,7 +276,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9193097980325593899, guid: 5fba13a938b9a1e4e98895e9da28f1a0, type: 3}
       propertyPath: IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -245,6 +284,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 7659454253693027471, guid: 5fba13a938b9a1e4e98895e9da28f1a0, type: 3}
       insertIndex: -1
       addedObject: {fileID: 7575997389755526431}
+    - targetCorrespondingSourceObject: {fileID: 7659454253693027471, guid: 5fba13a938b9a1e4e98895e9da28f1a0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3019288095288628880}
     - targetCorrespondingSourceObject: {fileID: 6405330047016019967, guid: 5fba13a938b9a1e4e98895e9da28f1a0, type: 3}
       insertIndex: -1
       addedObject: {fileID: 8677922255381706125}
