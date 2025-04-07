@@ -241,6 +241,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1223847406}
     m_Modifications:
+    - target: {fileID: 1998730151293803067, guid: 68aeb21d3f1b6f6418a34594495bc9d1, type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2289666652307045395, guid: 68aeb21d3f1b6f6418a34594495bc9d1, type: 3}
       propertyPath: m_Name
       value: MenuMagazine Variant
@@ -323,6 +327,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7771299973400766480, guid: 68aeb21d3f1b6f6418a34594495bc9d1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9081118110833930164, guid: 68aeb21d3f1b6f6418a34594495bc9d1, type: 3}
+      propertyPath: IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
