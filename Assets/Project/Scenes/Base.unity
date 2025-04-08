@@ -891,7 +891,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ilya Variant
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1577998233586696763, guid: 3dd5f2b48b351eb4caa896f6a338dbea, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
