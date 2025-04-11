@@ -1,15 +1,14 @@
 using System;
 using System.Collections.Generic;
 using Project.EntenEller.Base.Scripts.Cache.Components.Master;
-using Project.EntenEller.Base.Scripts.UI.Text;
 using Sirenix.OdinInspector;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Project.Scripts.Universal
+namespace Project.Scripts.CCLib.Text
 {
-    public class TextPaginator : EEBehaviour
+    public class CCTextPaginator : EEBehaviour
     {
         [Header("References")]
         [SerializeField] private TextMeshProUGUI displayText;

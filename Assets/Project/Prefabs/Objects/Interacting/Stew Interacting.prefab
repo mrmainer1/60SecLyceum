@@ -50,12 +50,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1392565511911547032, guid: 9e292ce09cc78f64e84717d6c8d458b1, type: 3}
       propertyPath: m_Name
-      value: StewInteracting Variant
+      value: Stew Interacting
       objectReference: {fileID: 0}
     - target: {fileID: 4003837754013761367, guid: 9e292ce09cc78f64e84717d6c8d458b1, type: 3}
       propertyPath: itemData
       value: 
       objectReference: {fileID: 11400000, guid: 6b29dce09a59844428f292cbe434edb6, type: 2}
+    - target: {fileID: 4420530524566011172, guid: 9e292ce09cc78f64e84717d6c8d458b1, type: 3}
+      propertyPath: m_Volume
+      value: 0.518
+      objectReference: {fileID: 0}
     - target: {fileID: 5987420555996554348, guid: 9e292ce09cc78f64e84717d6c8d458b1, type: 3}
       propertyPath: m_Size.x
       value: 0.41962126

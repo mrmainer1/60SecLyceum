@@ -12,6 +12,7 @@ namespace Project.Scripts.Magazine
         [SerializeField] private MagazineAllPageStateContoller magazineAllPageStateContoller;
 
         private GlobalSettings globalSettings;
+        private bool canActive = true;
 
         protected override void EEAwake()
         {
@@ -21,6 +22,7 @@ namespace Project.Scripts.Magazine
 
         public void SwitchState()
         {
+            if (!canActive) return;
             if (menu.IsActive) Disable();
             else Active();
         }
@@ -38,5 +40,8 @@ namespace Project.Scripts.Magazine
             menu.SetState(false);
             globalSettings.StartAnyMovePlayer();
         }
+
+        public void CanActive() => canActive = true;
+        public void NotCanActive() => canActive = false;
     }
 }
